@@ -16,8 +16,8 @@
 	     <html_a>-&#8734;</html_a>
              <latex_instructions>Determine the infinite limit:</latex_instructions>
 	     <latex_q>\lim_{x \to -3} \frac{x + 2}{x + 3}</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>Infinite limit: lim<sub>x &#8594; -3<sup>+</sup></sub> (x + 2) &#8260; (x + 3)</jeopardy_q>
+	     <jeopardy_a>What is -&#8734;?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -32,8 +32,8 @@
 	     <html_a>-&#8734;</html_a>
              <latex_instructions>Determine the infinite limit:</latex_instructions>
 	     <latex_q>\lim_{x \to 2\pi^-} x csc x</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>Infinite limit: lim<sub>x &#8594; 2&#960;<sup>-</sup></sub> x csc x</jeopardy_q>
+	     <jeopardy_a>What is -&#8734;?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -48,8 +48,8 @@
 	     <html_a>5</html_a>
              <latex_instructions>Evaluate the limit, if it exists:</latex_instructions>
 	     <latex_q>\lim_{x \to 2} \frac{x^2 + x - 6}{x - 2}</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>lim<sub>x &#8594; 2</sub> (x<sup>2</sup> + x - 6) &#8260; (x - 2)</jeopardy_q>
+	     <jeopardy_a>What is 5?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -65,8 +65,8 @@
 	     <html_a><sup>1</sup>&#8260;<sub>128</sub></html_a>
              <latex_instructions>Evaluate the limit, if it exists:</latex_instructions>
 	     <latex_q>\lim_{x \to 16} \frac{4 - \sqrt{x}}{16x - x^2}</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>lim<sub>x &#8594; 16</sub> (4 - /*&#8730;*/x) &#8260; (16x - x<sup>2</sup>)</jeopardy_q>
+	     <jeopardy_a>What is <sup>1</sup>&#8260;<sub>128</sub>?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -82,7 +82,7 @@
              <latex_instructions>Use continuity to evaluate the limit:</latex_instructions>
 	     <latex_q>\lim{x \to 4} \frac{5 + \sqrt{x}}{\sqrt{5 + x}}</latex_q>
 	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_a>What is <sup>7</sup>&#8260;<sub>3</sub>?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -97,8 +97,8 @@
 	     <html_a>1</html_a>
              <latex_instructions>Use continuity to evaluate the limit:</latex_instructions>
 	     <latex_q>\lim{x \to 1} e^{x^2 - x}</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>lim<sub>x &#8594; 1</sub>e<sup>x<sup>2</sup> - x</sup></jeopardy_q>
+	     <jeopardy_a>What is 1?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -144,9 +144,9 @@
 	     <html_choices></html_choices>
 	     <html_a>-2 + 8a</html_a>
              <latex_instructions>Find f'(a):</latex_instructions>
-	     <latex_q>f(x) = 3 - 2x + 4x^2</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <latex_q>f(a) = 3 - 2a + 4a^2</latex_q>
+	     <jeopardy_q>f'(a), where f(a) = 3 - 2a + 4a<sup>2</sup></jeopardy_q>
+	     <jeopardy_a>What is 02 + 8a?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -161,8 +161,8 @@
 	     <html_a>1 m/s</html_a>
              <latex_instructions>A particle moves along a straight line with equation of motion s = f(t), where s is measured in meters and t in seconds. Find the velocity and the speed when t = 5.</latex_instructions>
 	     <latex_q>f(t) = 100 + 50t - 4.9t^2</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>The velocity and speed of a particle moving along a straight line with equation of motion s = f(t), where s is measured in meters and t in seconds when t = 5; <br />f(t) = 100 + 50t - 4.9t<sup>2</sup></jeopardy_q>
+	     <jeopardy_a>What is 1 m/s?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -177,8 +177,8 @@
 	     <html_a><sup>-2</sup>&#8260;<sub>5x<sup>7/5</sup></sub></html_a>
              <latex_instructions>Differentiate the function:</latex_instructions>
 	     <latex_q>y = x^{-2/5}</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>The derivative of the function y = x<sup>-2</sup>&#8260;<sub>5</sub></jeopardy_q>
+	     <jeopardy_a>What is <sup>-2</sup>&#8260;<sub>5x<sup>7/5</sup></sub>?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -193,8 +193,8 @@
 	     <html_a><sup>1</sup>&#8260;<sub>5</sub>t<sup>-4/5</sup> + 10t<sup>3/2</sup></html_a>
              <latex_instructions>Differentiate the function:</latex_instructions>
 	     <latex_q>u = \sqrt[5]{t} + 4\sqrt{t^5}</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>The derivative of the function u = </jeopardy_q>
+	     <jeopardy_a>What is <sup>1</sup>&#8260;<sub>5</sub>t<sup>-4/5</sup> + 10t<sup>3/2</sup>?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -209,8 +209,8 @@
 	     <html_a>e<sup>x</sup>(x<sup>3</sup> + 3x<sup>2</sup> + 2x + 2)</html_a>
              <latex_instructions>Differentiate:</latex_instructions>
 	     <latex_q>f(x) = (x^3 + 2x)e^x</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>The derivative of f(x) = (x<sup>3</sup> + 2x)e<sup>x</sup></jeopardy_q>
+	     <jeopardy_a>What is e<sup>x</sup>(x<sup>3</sup> + 3x<sup>2</sup> + 2x + 2)?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -225,8 +225,8 @@
 	     <html_a>(x<sup>2</sup>(3 - x<sup>2</sup>))/(1 - x<sup>2</sup>)<sup>2</sup>)</html_a>
              <latex_instructions>Differentiate:</latex_instructions>
 	     <latex_q>y = \frac{x^3}{1 - x^2}</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>The derivative of <sup>x<sup>3</sup></sup>/<sub>1 - x<sup>2</sup></sub></jeopardy_q>
+	     <jeopardy_a>What is (x<sup>2</sup>(3 - x<sup>2</sup>))/(1 - x<sup>2</sup>)<sup>2</sup>)?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -241,8 +241,8 @@
 	     <html_a>6x + 2 sin x</html_a>
              <latex_instructions>Differentiate:</latex_instructions>
 	     <latex_q>f(x) = 3x^2 - 2 cos x</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>The derivative of f(x) = 3x<sup>2</sup> - 2 cos x</jeopardy_q>
+	     <jeopardy_a>What is 6x + 2 sin x?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -257,8 +257,8 @@
 	     <html_a>y - 2 = 2(3)<sup>1/2</sup>(x - <sup>&#960;</sup>/<sub>3</sub>)</html_a>
              <latex_instructions>Find an equation of the tangent line to the curve y = sec x at</latex_instructions>
 	     <latex_q>\frac{3\pi, 2}</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>An equation for the tangent line to the curve y = sec x at (&#960; &#8260; 3, 2)</jeopardy_q>
+	     <jeopardy_a>What is y - 2 = 2(3)<sup>1/2</sup>(x - <sup>&#960;</sup>/<sub>3</sub>)?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -273,8 +273,8 @@
 	     <html_a>5(x<sup>4</sup> + 3x<sup>2</sup> - 2)<sup>4</sup>(4x<sup>3</sup> + 6x)</html_a>
              <latex_instructions>Find the derivative of the function:</latex_instructions>
 	     <latex_q> F(x) = (x^4 + 3x^2 - 2)^5</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>The derivative of F(x) = (x<sup>4</sup> + 3x<sup>2</sup> - 2)<sup>5</sup></jeopardy_q>
+	     <jeopardy_a>What is 5(x<sup>4</sup> + 3x<sup>2</sup> - 2)<sup>4</sup>(4x<sup>3</sup> + 6x)?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -289,8 +289,8 @@
 	     <html_a>8(2x - 5)<sup>3</sup>(8x<sup>2</sup> - 5)<sup>-4</sup>(-4x<sup>2</sup> + 30x - 5)</html_a>
              <latex_instructions>Find the derivative of the function:</latex_instructions>
 	     <latex_q> y = (2x - 5)^4(8x^2 - 5)^{-3}</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>The derivative of y = (2x - 5)<sup>4</sup>(8x<sup>2</sup> - 5)<sup>3</sup></jeopardy_q>
+	     <jeopardy_a>What is 8(2x - 5)<sup>3</sup>(8x<sup>2</sup> - 5)<sup>-4</sup>(-4x<sup>2</sup> + 30x - 5)?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -305,8 +305,8 @@
 	     <html_a>y' = (-x<sup>2</sup>)/(y<sup>2</sup>)</html_a>
              <latex_instructions>Find dy/dx by implicit differentiation:</latex_instructions>
 	     <latex_q> x^3 + y^3 = 1</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q><sup>dy</sup>&#8260;<sub>dx</sub> of x<sup>3</sup> + y<sup>3</sup> = 1</jeopardy_q>
+	     <jeopardy_a>What is y' = (-x<sup>2</sup>)/(y<sup>2</sup>)?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -321,8 +321,8 @@
 	     <html_a>y' = (e<sup>y</sup> sin x + y cos(xy))/(e<sup>y</sup> cos x - x cos(xy))</html_a>
              <latex_instructions>Find dy/dx by implicit differentiation:</latex_instructions>
 	     <latex_q> e^y cos x = 1 + sin(xy)</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q><sup>dy</sup>&#8260;<sub>dx</sub> of e<sup>y</sup> cos x = 1 + sin(xy)</jeopardy_q>
+	     <jeopardy_a>What is y' = (e<sup>y</sup> sin x + y cos(xy))/(e<sup>y</sup> cos x - x cos(xy))?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -337,8 +337,8 @@
 	     <html_a>cos(ln x)/x</html_a>
              <latex_instructions>Differentiate the function:</latex_instructions>
 	     <latex_q> f(x) = sin(ln x)</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>The derivative of f(x) = sin(ln x)</jeopardy_q>
+	     <jeopardy_a>What is <sup>cos(ln x)</sup>&#8260;<sub>x</sub>?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -353,8 +353,8 @@
 	     <html_a>(-x)/(1 + x)</html_a>
              <latex_instructions>Differentiate the function:</latex_instructions>
 	     <latex_q> y = ln(e^{-x} + xe^{-x})</latex_q>
-	     <jeopardy_q></jeopardy_q>
-	     <jeopardy_a></jeopardy_a>
+	     <jeopardy_q>The derivative of y = ln(e<sup>-x</sup> + xe<sup>-x</sup>)</jeopardy_q>
+	     <jeopardy_a>What is <sup>-x</sup>&#8260;<sub>1 + x</sub>?</jeopardy_a>
 	     <instructions></instructions>
 	</question>
 
@@ -363,8 +363,6 @@
 
 </TestBank>
 <!-- DATABASE FORMAT
-
-
 	<question>
 	     <id></id>
 	     <subject></subject>
@@ -380,8 +378,6 @@
 	     <jeopardy_a></jeopardy_a>
 	     <instructions></instructions>
 	</question>
-
-
 -->
 
 
